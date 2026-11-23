@@ -35,3 +35,9 @@ export default function ContactForm() {
       [e.target.name]: e.target.value,
     });
   };
+  return (
+    <div>
+      Contact Form
+    </div>
+  );
+}

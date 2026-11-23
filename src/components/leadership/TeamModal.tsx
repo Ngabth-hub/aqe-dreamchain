@@ -361,7 +361,7 @@ export default function TeamModal({
 
                     >
 
-                      "{member.quote}"
+                      &ldquo;{member.quote}&rdquo;
 
                     </p>
 

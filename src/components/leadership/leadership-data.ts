@@ -26,6 +26,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/founder.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
 
@@ -41,6 +47,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/SepSuong.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
 
@@ -56,6 +68,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Daniel.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
 
@@ -71,6 +89,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Linhdang.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -85,6 +109,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Wiliamtran.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -99,6 +129,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Doankhang.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
     ],
@@ -127,6 +163,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Hoangthi.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -141,6 +183,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Tuyetmai.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -155,6 +203,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Uyentrinh.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -169,6 +223,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Vythao.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -183,6 +243,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/HuongANNA.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -197,6 +263,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Hoangnguyen.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -211,6 +283,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Kimsa.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
     ],
   },
@@ -240,6 +318,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Ngabui.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
       {
@@ -254,6 +338,12 @@ export const leadershipTeams: LeadershipTeam[] = [
 
         image:
           "/images/team/Hoangnam.png",
+          expertise: [
+            "Strategic Leadership",
+            "Real Estate Investment",
+          ],
+          
+          experience: "20+ years in global business development",
       },
 
     ],
