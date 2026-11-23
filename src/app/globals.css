@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --color-aqe-bg: #05070a;
+  --color-aqe-gold: #d4af37;
+  --color-aqe-white: #f8f8f8;
+  --color-aqe-gray: #9aa4b2;
+
+  --font-display: var(--font-cormorant), "Cormorant Garamond", ui-serif, Georgia,
+    serif;
+  --font-sans: var(--font-inter), "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --color-background: #05070a;
+  --color-gold: #d4af37;
+  --color-white: #f8f8f8;
+  --color-gray: #9aa4b2;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-white);
+  font-family: var(--font-sans);
+}
+
+@layer utilities {
+  .glass-card {
+    background: linear-gradient(
+      135deg,
+      rgba(248, 248, 248, 0.06) 0%,
+      rgba(248, 248, 248, 0.02) 100%
+    );
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(248, 248, 248, 0.08);
+  }
+
+  .hero-overlay {
+    background: linear-gradient(
+      180deg,
+      rgba(5, 7, 10, 0.72) 0%,
+      rgba(5, 7, 10, 0.55) 45%,
+      rgba(5, 7, 10, 0.88) 100%
+    );
+  }
+
+  .hero-video-fallback {
+    background:
+      radial-gradient(
+        ellipse 80% 60% at 70% 20%,
+        rgba(212, 175, 55, 0.08) 0%,
+        transparent 60%
+      ),
+      radial-gradient(
+        ellipse 60% 50% at 20% 80%,
+        rgba(154, 164, 178, 0.06) 0%,
+        transparent 55%
+      ),
+      linear-gradient(160deg, #05070a 0%, #0a0e14 35%, #0d1118 65%, #05070a 100%);
+  }
+}

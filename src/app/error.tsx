@@ -1,0 +1,18 @@
+"use client";
+
+export default function Error({
+  error: _error,
+  reset,
+}: {
+  error: Error & { digest?: string };
+  reset: () => void;
+}) {
+  return (
+    <main>
+      <h2>Something went wrong</h2>
+      <button type="button" onClick={() => reset()}>
+        Try again
+      </button>
+    </main>
+  );
+}
