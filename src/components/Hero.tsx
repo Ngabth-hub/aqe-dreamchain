@@ -32,7 +32,7 @@ export default function Hero() {
       {/* Hero Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/images/hero/aqe-hero.PNG"
+          src="/images/hero/aqe-hero.png"
           alt="AQE Digital Real Estate"
           fill
           priority
