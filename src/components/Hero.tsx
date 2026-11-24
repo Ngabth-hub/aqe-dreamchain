@@ -27,7 +27,18 @@ const stats = [
 
 export default function Hero() {
   return (
-    <section className="relative flex min-h-screen items-center overflow-hidden bg-[#05070A]">
+    <section
+  className="
+    relative
+    flex
+    min-h-screen
+    items-center
+    overflow-hidden
+    bg-[#05070A]
+    pt-24
+    md:pt-0
+  "
+>
 
       {/* Hero Background Image */}
       <div className="absolute inset-0">
