@@ -55,7 +55,6 @@ export const leadershipTeams: LeadershipTeam[] = [
           experience: "20+ years in global business development",
       },
 
-
       {
         name: "DANIEL LEMKUIL",
 
@@ -67,7 +66,7 @@ export const leadershipTeams: LeadershipTeam[] = [
           "Biến tầm nhìn thành hành động bằng sự kỷ luật và hiệu quả.",
 
         image:
-          "/images/team/Daniel.png",
+          "/images/team/daniel.png",
           expertise: [
             "Strategic Leadership",
             "Real Estate Investment",
@@ -75,7 +74,6 @@ export const leadershipTeams: LeadershipTeam[] = [
           
           experience: "20+ years in global business development",
       },
-
 
       {
         name: "LINH DANG",
@@ -88,7 +86,7 @@ export const leadershipTeams: LeadershipTeam[] = [
           "Công nghệ là cầu nối giữa tài sản thật và tương lai số.",
 
         image:
-          "/images/team/Linhdang.png",
+          "/images/team/inhdang.png",
           expertise: [
             "Strategic Leadership",
             "Real Estate Investment",
@@ -128,7 +126,7 @@ export const leadershipTeams: LeadershipTeam[] = [
           "Công nghệ là cầu nối giữa tài sản thật và tương lai số.",
 
         image:
-          "/images/team/Doankhang.png",
+          "/images/team/doankhang.png",
           expertise: [
             "Strategic Leadership",
             "Real Estate Investment",
