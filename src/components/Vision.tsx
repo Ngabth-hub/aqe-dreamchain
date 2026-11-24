@@ -87,7 +87,7 @@ export default function Vision() {
             <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-white/5 p-3 backdrop-blur-xl">
 
               <Image
-                src="/images/vision/digital-city.PNG"
+                src="/images/vision/digital-city.png"
                 alt="AQE Digital City"
                 width={800}
                 height={600}
@@ -110,7 +110,7 @@ export default function Vision() {
             >
 
               <Image
-                src="/images/vision/dubai-future.PNG"
+                src="/images/vision/dubai-future.png"
                 alt="Dubai Future City"
                 width={500}
                 height={400}
