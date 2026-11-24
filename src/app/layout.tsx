@@ -8,16 +8,18 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "AQE Digital Experience",
+  title: "AQE Digital Experience | Ameritec",
   description:
-    "AQ Estate - Hệ sinh thái bất động sản số kết nối tài sản thực với công nghệ hiện đại.",
+    "AQE Digital Experience - Hệ sinh thái bất động sản số kết nối tài sản thực với công nghệ hiện đại, mở ra cơ hội tiếp cận bất động sản toàn cầu.",
   keywords: [
     "AQE",
     "AQ Estate",
     "Ameritec",
-    "Dubai",
-    "Real Estate",
+    "Bất động sản số",
+    "Bất động sản Dubai",
+    "RWA",
     "Tokenization",
+    "Sở hữu bất động sản phân mảnh",
   ],
 };
 
