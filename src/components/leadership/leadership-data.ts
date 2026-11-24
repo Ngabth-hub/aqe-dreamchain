@@ -86,7 +86,7 @@ export const leadershipTeams: LeadershipTeam[] = [
           "Công nghệ là cầu nối giữa tài sản thật và tương lai số.",
 
         image:
-          "/images/team/inhdang.png",
+          "/images/team/linhdang.png",
           expertise: [
             "Strategic Leadership",
             "Real Estate Investment",
