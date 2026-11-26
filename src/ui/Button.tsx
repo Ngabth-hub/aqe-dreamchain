@@ -1,4 +1,3 @@
-import { theme } from "@/theme";
 import clsx from "clsx";
 import { ButtonHTMLAttributes } from "react";
 
