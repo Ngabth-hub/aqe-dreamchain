@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Container from "@/ui/Container";
 
 const gallery = [
@@ -57,11 +58,13 @@ export default function Experience() {
             >
 
               <div className="overflow-hidden rounded-[32px]">
-                <img
-                  src={item.image}
-                  alt={item.title}
-                  className="h-[520px] w-full object-cover transition duration-700 hover:scale-105"
-                />
+              <Image
+  src={item.image}
+  alt={item.title}
+  width={1200}
+  height={800}
+  className="h-[520px] w-full object-cover transition duration-700 hover:scale-105"
+/>
               </div>
 
               <div>
